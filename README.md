@@ -1,5 +1,5 @@
-:rocket: Mi Proyecto
-:biceps: # Sistema de Gestion Personas  
+:rocket: 
+# Sistema de Gestion Personas  
 Sistema de gestion de personas para una institucion educativa. 
 Permite manejar la informacion de estudiantes, docentes y personal administrativo.
 Proporciona herramientas para realizar diversas consultas y manipulaciones sobre los 
