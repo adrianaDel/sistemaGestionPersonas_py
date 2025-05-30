@@ -1,9 +1,9 @@
-# Sistema de Gestion Personas (POO) en python
+# Sistema de Gestion Personas para una institucion educativa 
 Sistema de gestion de personas para una institucion educativa. 
 Este permite manejar la informacion de estudiantes, docentes y personal administrativo.
 Proporciona herramientas para realizar diversas consultas y manipulaciones sobre los 
 datos de estas personas.
-OBJETIVO
+## OBJETIVO
 Aplicar los principios fundamentales de la Programación Orientada a Objetos (POO) en Python,
 incluyendo polimorfi smo, abstracción, herencia y encapsulamiento. 
 Se desarrollarán y manipularán colecciones de objetos, realizando búsquedas y 
